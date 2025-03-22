@@ -1,0 +1,1387 @@
+---Zestawienie aktualnych skladow pociagow---
+
+Pociag o numerze 24: lokomotywa o numerze 24
+podlaczone wagony: 
+
+Wagon na materialy gazowe o numerze 186
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 97.94577838475722
+
+Wagon towarowy podstawowy o numerze 178
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 224.47252324447896
+
+Wagon na materialy ciekle o numerze 182
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 499.0823588175318
+
+Wagon pocztowy o numerze 184
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 560.2503641253774
+
+Wagon towarowy ciezki o numerze 187
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 606.1859415046949
+
+Wagon na materialy ciekle toksyczne o numerze 181
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 649.6793355742351
+
+Wagon na materialy ciekle toksyczne o numerze 179
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 692.8751824837774
+
+Wagon pasazerski o numerze 185
+ladunek: null
+liczba miejsc: 63
+liczba pasazerow: 7
+zabezpieczenia: przeciwpozarowe
+waga: 707.2704814373478
+
+
+Wagon na materialy wybuchowe o numerze 183
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 734.1417716989819
+
+Wagon chlodniczy o numerze 180
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 817.6516008963829
+
+Stacja poczatkowa: Stacja 96
+Stacja docelowa: Stacja 92
+Dystans do pokonania: 1543200
+--------------------------------------------------
+Pociag o numerze 14: lokomotywa o numerze 14
+podlaczone wagony: 
+
+Wagon towarowy ciezki o numerze 103
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 84.12992934233313
+
+Wagon towarowy podstawowy o numerze 105
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 267.8847125088871
+
+Wagon pasazerski o numerze 101
+ladunek: null
+liczba miejsc: 67
+liczba pasazerow: 8
+zabezpieczenia: przeciwpozarowe
+waga: 531.9197653778251
+
+
+Wagon na materialy toksyczne o numerze 99
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 558.8015644457076
+
+Wagon na materialy gazowe o numerze 106
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 580.9501684096772
+
+Wagon pasazerski o numerze 102
+ladunek: null
+liczba miejsc: 52
+liczba pasazerow: 36
+zabezpieczenia: przeciwpozarowe
+waga: 646.9016005696972
+
+
+Wagon towarowy podstawowy o numerze 104
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 705.0123192921272
+
+Wagon pocztowy o numerze 100
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 899.1430751320818
+
+Stacja poczatkowa: Stacja 54
+Stacja docelowa: Stacja 62
+Dystans do pokonania: 1537668
+--------------------------------------------------
+Pociag o numerze 22: lokomotywa o numerze 22
+podlaczone wagony: 
+
+Wagon na materialy ciekle o numerze 164
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 19.607625832755616
+
+Wagon restauracyjny o numerze 167
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 401.1671009259002
+
+Wagon bagazowo-pocztowy o numerze 168
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 528.4210077950147
+
+Wagon towarowy ciezki o numerze 165
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 621.1453773170291
+
+Wagon restauracyjny o numerze 170
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 695.5144598667617
+
+Wagon na materialy ciekle toksyczne o numerze 166
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 759.9490221559163
+
+Wagon bagazowo-pocztowy o numerze 169
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 778.9394295384584
+
+Wagon bagazowo-pocztowy o numerze 162
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 971.2606187187998
+
+Wagon na materialy ciekle o numerze 163
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 982.6800558067814
+
+Stacja poczatkowa: Stacja 74
+Stacja docelowa: Stacja 88
+Dystans do pokonania: 1536720
+--------------------------------------------------
+Pociag o numerze 5: lokomotywa o numerze 5
+podlaczone wagony: 
+
+Wagon na materialy ciekle o numerze 38
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 63.75287939012281
+
+Wagon na materialy ciekle o numerze 40
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 83.68938225106116
+
+Wagon towarowy ciezki o numerze 39
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 91.6523207469906
+
+Wagon chlodniczy o numerze 36
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 105.21201395798161
+
+Wagon towarowy podstawowy o numerze 42
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 375.1741157229957
+
+Wagon pasazerski o numerze 37
+ladunek: null
+liczba miejsc: 53
+liczba pasazerow: 39
+zabezpieczenia: przeciwpozarowe
+waga: 728.7813561660237
+
+
+Wagon pocztowy o numerze 34
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 795.4985207454846
+
+Wagon restauracyjny o numerze 35
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 899.9492185361391
+
+Wagon towarowy podstawowy o numerze 41
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 1043.8552159879887
+
+Stacja poczatkowa: Stacja 78
+Stacja docelowa: Stacja 45
+Dystans do pokonania: 1537786
+--------------------------------------------------
+Pociag o numerze 13: lokomotywa o numerze 13
+podlaczone wagony: 
+
+Wagon na materialy ciekle o numerze 93
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 167.18629586679683
+
+Wagon na materialy wybuchowe o numerze 95
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 317.63612750917395
+
+Wagon na materialy ciekle toksyczne o numerze 98
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 443.1175771489374
+
+Wagon na materialy toksyczne o numerze 94
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 698.9998133097826
+
+Wagon towarowy podstawowy o numerze 96
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 774.9514536134019
+
+Wagon pasazerski o numerze 97
+ladunek: null
+liczba miejsc: 67
+liczba pasazerow: 0
+zabezpieczenia: przeciwpozarowe
+waga: 1023.1041607198413
+
+
+Stacja poczatkowa: Stacja 57
+Stacja docelowa: Stacja 73
+Dystans do pokonania: 1539240
+--------------------------------------------------
+Pociag o numerze 18: lokomotywa o numerze 18
+podlaczone wagony: 
+
+Wagon chlodniczy o numerze 129
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 46.16454193733517
+
+Wagon na materialy ciekle toksyczne o numerze 127
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 46.35453282439496
+
+Wagon na materialy gazowe o numerze 131
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 118.58073785671196
+
+Wagon na materialy ciekle o numerze 135
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 140.7354164883319
+
+Wagon na materialy gazowe o numerze 134
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 171.42720904693795
+
+Wagon na materialy wybuchowe o numerze 132
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 291.7434539298402
+
+Wagon restauracyjny o numerze 130
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 342.61938098840494
+
+Wagon na materialy ciekle o numerze 136
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 488.182619115228
+
+Wagon chlodniczy o numerze 128
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 641.1913139065201
+
+Wagon pocztowy o numerze 133
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 754.1200034501311
+
+Stacja poczatkowa: Stacja 82
+Stacja docelowa: Stacja 68
+Dystans do pokonania: 1543617
+--------------------------------------------------
+Pociag o numerze 25: lokomotywa o numerze 25
+podlaczone wagony: 
+
+Wagon restauracyjny o numerze 189
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 120.1301826390775
+
+Wagon na materialy gazowe o numerze 190
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 164.58534508110068
+
+Wagon towarowy podstawowy o numerze 192
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 391.09449382205185
+
+Wagon pasazerski o numerze 193
+ladunek: null
+liczba miejsc: 98
+liczba pasazerow: 11
+zabezpieczenia: przeciwpozarowe
+waga: 616.7994730337367
+
+
+Wagon restauracyjny o numerze 188
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 619.9024008184376
+
+Wagon towarowy podstawowy o numerze 195
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 774.1298453897248
+
+Wagon towarowy podstawowy o numerze 191
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 882.696464955646
+
+Wagon na materialy toksyczne o numerze 194
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 921.9826279880892
+
+Stacja poczatkowa: Stacja 81
+Stacja docelowa: Stacja 83
+Dystans do pokonania: 1542604
+--------------------------------------------------
+Pociag o numerze 6: lokomotywa o numerze 6
+podlaczone wagony: 
+
+Wagon pasazerski o numerze 43
+ladunek: null
+liczba miejsc: 99
+liczba pasazerow: 49
+zabezpieczenia: przeciwpozarowe
+waga: 250.76663712232173
+
+
+Wagon na materialy toksyczne o numerze 46
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 278.4743892685195
+
+Wagon bagazowo-pocztowy o numerze 48
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 295.2494607770029
+
+Wagon bagazowo-pocztowy o numerze 47
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 662.7618778309245
+
+Wagon chlodniczy o numerze 45
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 808.6908783007331
+
+Wagon towarowy ciezki o numerze 44
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 943.54021390354
+
+Stacja poczatkowa: Stacja 1
+Stacja docelowa: Stacja 98
+Dystans do pokonania: 1539615
+--------------------------------------------------
+Pociag o numerze 8: lokomotywa o numerze 8
+podlaczone wagony: 
+
+Wagon na materialy wybuchowe o numerze 60
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 350.89629350827636
+
+Wagon pocztowy o numerze 57
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 415.90390391500483
+
+Wagon na materialy ciekle o numerze 58
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 492.10451195951197
+
+Wagon na materialy wybuchowe o numerze 59
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 507.578186476027
+
+Wagon pasazerski o numerze 61
+ladunek: null
+liczba miejsc: 50
+liczba pasazerow: 32
+zabezpieczenia: przeciwpozarowe
+waga: 534.3441361964781
+
+
+Wagon na materialy toksyczne o numerze 62
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 637.6967117878511
+
+Wagon bagazowo-pocztowy o numerze 63
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 727.1453284420023
+
+Stacja poczatkowa: Stacja 92
+Stacja docelowa: Stacja 49
+Dystans do pokonania: 1541996
+--------------------------------------------------
+Pociag o numerze 3: lokomotywa o numerze 3
+podlaczone wagony: 
+
+Wagon bagazowo-pocztowy o numerze 19
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 368.3883473816137
+
+Wagon towarowy ciezki o numerze 22
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 384.4252587250562
+
+Wagon na materialy gazowe o numerze 18
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 610.3830359602927
+
+Wagon towarowy podstawowy o numerze 20
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 684.2076632391614
+
+Wagon towarowy ciezki o numerze 15
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 774.5219974462547
+
+Wagon bagazowo-pocztowy o numerze 16
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 779.3359816030218
+
+Wagon na materialy wybuchowe o numerze 17
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 811.7309167166235
+
+Wagon chlodniczy o numerze 21
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 867.0057929566453
+
+Wagon na materialy gazowe o numerze 14
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 872.4475215813113
+
+Wagon pocztowy o numerze 23
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 878.5041987269888
+
+Stacja poczatkowa: Stacja 50
+Stacja docelowa: Stacja 30
+Dystans do pokonania: 1224704
+--------------------------------------------------
+Pociag o numerze 9: lokomotywa o numerze 9
+podlaczone wagony: 
+
+Wagon na materialy gazowe o numerze 64
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 114.37461426401123
+
+Wagon bagazowo-pocztowy o numerze 67
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 363.99961649059264
+
+Wagon towarowy podstawowy o numerze 65
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 478.48602230428173
+
+Wagon pasazerski o numerze 69
+ladunek: null
+liczba miejsc: 9
+liczba pasazerow: 47
+zabezpieczenia: przeciwpozarowe
+waga: 829.3552905050955
+
+
+Wagon na materialy wybuchowe o numerze 66
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 953.912627563328
+
+Wagon towarowy podstawowy o numerze 68
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 976.8817884042409
+
+Stacja poczatkowa: Stacja 1
+Stacja docelowa: Stacja 62
+Dystans do pokonania: 1189320
+--------------------------------------------------
+Pociag o numerze 1: lokomotywa o numerze 1
+podlaczone wagony: 
+
+Wagon pasazerski o numerze 3
+ladunek: null
+liczba miejsc: 51
+liczba pasazerow: 12
+zabezpieczenia: przeciwpozarowe
+waga: 560.8638157882253
+
+
+Wagon pasazerski o numerze 1
+ladunek: null
+liczba miejsc: 29
+liczba pasazerow: 6
+zabezpieczenia: przeciwpozarowe
+waga: 662.0198029147982
+
+
+Wagon bagazowo-pocztowy o numerze 2
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 858.9296727473137
+
+Wagon restauracyjny o numerze 5
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 881.5344462279211
+
+Wagon towarowy podstawowy o numerze 6
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 886.3822839444146
+
+Wagon na materialy wybuchowe o numerze 7
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 1027.3107350725086
+
+Wagon chlodniczy o numerze 4
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 1058.8425849901537
+
+Wagon pocztowy o numerze 199
+ladunek: poczta
+nadawca: PES
+zabezpieczenia: alarm
+waga: 2000000.0
+
+Stacja poczatkowa: Stacja 12
+Stacja docelowa: Stacja 11
+Dystans do pokonania: 1189554
+--------------------------------------------------
+Pociag o numerze 23: lokomotywa o numerze 23
+podlaczone wagony: 
+
+Wagon chlodniczy o numerze 177
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 55.77449825526706
+
+Wagon na materialy toksyczne o numerze 172
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 287.28617901123295
+
+Wagon na materialy toksyczne o numerze 174
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 373.0289907173641
+
+Wagon na materialy gazowe o numerze 171
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 592.0579331613005
+
+Wagon towarowy podstawowy o numerze 176
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 600.863239531651
+
+Wagon na materialy wybuchowe o numerze 173
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 711.5203959926512
+
+Wagon na materialy ciekle toksyczne o numerze 175
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 725.8563293801965
+
+Stacja poczatkowa: Stacja 95
+Stacja docelowa: Stacja 43
+Dystans do pokonania: 1083150
+--------------------------------------------------
+Pociag o numerze 20: lokomotywa o numerze 20
+podlaczone wagony: 
+
+Wagon pasazerski o numerze 150
+ladunek: null
+liczba miejsc: 43
+liczba pasazerow: 8
+zabezpieczenia: przeciwpozarowe
+waga: 290.99577064241527
+
+
+Wagon na materialy ciekle toksyczne o numerze 145
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 502.13185805398433
+
+Wagon pasazerski o numerze 152
+ladunek: null
+liczba miejsc: 41
+liczba pasazerow: 16
+zabezpieczenia: przeciwpozarowe
+waga: 502.8750180736215
+
+
+Wagon restauracyjny o numerze 147
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 631.9480408574834
+
+Wagon chlodniczy o numerze 144
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 725.0458297759337
+
+Wagon na materialy ciekle o numerze 146
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 731.3780791569698
+
+Wagon towarowy ciezki o numerze 151
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 786.2834268719357
+
+Wagon pocztowy o numerze 149
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 854.5160240629307
+
+Wagon towarowy podstawowy o numerze 153
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 900.6414761385246
+
+Wagon na materialy ciekle toksyczne o numerze 148
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 1008.353880130097
+
+Stacja poczatkowa: Stacja 19
+Stacja docelowa: Stacja 33
+Dystans do pokonania: 859300
+--------------------------------------------------
+Pociag o numerze 7: lokomotywa o numerze 7
+podlaczone wagony: 
+
+Wagon towarowy podstawowy o numerze 53
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 146.17110170695304
+
+Wagon pasazerski o numerze 49
+ladunek: null
+liczba miejsc: 71
+liczba pasazerow: 28
+zabezpieczenia: przeciwpozarowe
+waga: 237.1231902502212
+
+
+Wagon na materialy ciekle o numerze 51
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 461.89805808140284
+
+Wagon na materialy ciekle o numerze 54
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 486.56049151318393
+
+Wagon bagazowo-pocztowy o numerze 52
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 568.9170548979548
+
+Wagon pocztowy o numerze 56
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 691.3842181898513
+
+Wagon na materialy ciekle toksyczne o numerze 55
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 943.525185967375
+
+Wagon na materialy wybuchowe o numerze 50
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 1026.2329717912314
+
+Stacja poczatkowa: Stacja 62
+Stacja docelowa: Stacja 25
+Dystans do pokonania: 836096
+--------------------------------------------------
+Pociag o numerze 21: lokomotywa o numerze 21
+podlaczone wagony: 
+
+Wagon pasazerski o numerze 158
+ladunek: null
+liczba miejsc: 0
+liczba pasazerow: 27
+zabezpieczenia: przeciwpozarowe
+waga: 183.0236964804563
+
+
+Wagon na materialy toksyczne o numerze 156
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 223.1612003495609
+
+Wagon restauracyjny o numerze 155
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 302.1436332275332
+
+Wagon na materialy toksyczne o numerze 159
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 381.5336029438494
+
+Wagon towarowy ciezki o numerze 160
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 506.68521680026595
+
+Wagon na materialy gazowe o numerze 157
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 676.2835643334447
+
+Wagon na materialy wybuchowe o numerze 154
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 889.9701671781125
+
+Wagon pocztowy o numerze 161
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 1019.4702035074113
+
+Stacja poczatkowa: Stacja 52
+Stacja docelowa: Stacja 85
+Dystans do pokonania: 664580
+--------------------------------------------------
+Pociag o numerze 19: lokomotywa o numerze 19
+podlaczone wagony: 
+
+Wagon na materialy wybuchowe o numerze 138
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 307.0851081442467
+
+Wagon pocztowy o numerze 140
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 344.7473437592003
+
+Wagon na materialy ciekle toksyczne o numerze 137
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 461.7697898485844
+
+Wagon na materialy ciekle o numerze 142
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 709.490705945986
+
+Wagon na materialy toksyczne o numerze 139
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 744.4280172903947
+
+Wagon pasazerski o numerze 143
+ladunek: null
+liczba miejsc: 33
+liczba pasazerow: 34
+zabezpieczenia: przeciwpozarowe
+waga: 783.7194786634071
+
+
+Wagon na materialy gazowe o numerze 141
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 803.7691902683034
+
+Stacja poczatkowa: Stacja 21
+Stacja docelowa: Stacja 25
+Dystans do pokonania: 635460
+--------------------------------------------------
+Pociag o numerze 2: lokomotywa o numerze 2
+podlaczone wagony: 
+
+Wagon towarowy ciezki o numerze 12
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 438.83461970019397
+
+Wagon towarowy podstawowy o numerze 9
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 596.4381821951662
+
+Wagon towarowy podstawowy o numerze 10
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 774.4390205474115
+
+Wagon na materialy toksyczne o numerze 13
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 895.5682782007984
+
+Wagon pocztowy o numerze 8
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 949.6346237803228
+
+Wagon na materialy toksyczne o numerze 11
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 992.5225452123373
+
+Stacja poczatkowa: Stacja 31
+Stacja docelowa: Stacja 21
+Dystans do pokonania: 636141
+--------------------------------------------------
+Pociag o numerze 10: lokomotywa o numerze 10
+podlaczone wagony: 
+
+Wagon na materialy gazowe o numerze 73
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 132.02483266116727
+
+Wagon na materialy wybuchowe o numerze 77
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 146.94567169001272
+
+Wagon na materialy toksyczne o numerze 75
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 275.8994747706976
+
+Wagon na materialy ciekle o numerze 70
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 346.0462481068584
+
+Wagon bagazowo-pocztowy o numerze 71
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 471.9196235119548
+
+Wagon na materialy ciekle toksyczne o numerze 76
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 642.8344153317721
+
+Wagon na materialy wybuchowe o numerze 72
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 813.1558384626527
+
+Wagon na materialy gazowe o numerze 74
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 940.0049803399816
+
+Stacja poczatkowa: Stacja 24
+Stacja docelowa: Stacja 51
+Dystans do pokonania: 438048
+--------------------------------------------------
+Pociag o numerze 15: lokomotywa o numerze 15
+podlaczone wagony: 
+
+Wagon na materialy wybuchowe o numerze 110
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 142.3720366356622
+
+Wagon na materialy ciekle o numerze 111
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 175.9193757120947
+
+Wagon na materialy ciekle toksyczne o numerze 108
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 302.63607764879293
+
+Wagon restauracyjny o numerze 109
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 663.9171608122278
+
+Wagon towarowy podstawowy o numerze 107
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 765.8599753896784
+
+Stacja poczatkowa: Stacja 87
+Stacja docelowa: Stacja 69
+Dystans do pokonania: 343672
+--------------------------------------------------
+Pociag o numerze 17: lokomotywa o numerze 17
+podlaczone wagony: 
+
+Wagon towarowy podstawowy o numerze 120
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 239.2129905119956
+
+Wagon pocztowy o numerze 198
+ladunek: listy
+nadawca: REA
+zabezpieczenia: alarm
+waga: 300.0
+
+Wagon towarowy ciezki o numerze 121
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 340.20535362017284
+
+Wagon na materialy gazowe o numerze 119
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 352.88695228066166
+
+Wagon pocztowy o numerze 126
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 503.27310727517175
+
+Wagon na materialy ciekle toksyczne o numerze 124
+ladunek: benzyna
+nadawca: CMT
+zabezpieczenia: przeciwpozarowe
+waga: 508.84961094700276
+
+Wagon chlodniczy o numerze 123
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 615.5412340131563
+
+Wagon na materialy gazowe o numerze 122
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 747.200512194793
+
+Wagon bagazowo-pocztowy o numerze 125
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 845.4777077297651
+
+Stacja poczatkowa: Stacja 24
+Stacja docelowa: Stacja 85
+Dystans do pokonania: 342703
+--------------------------------------------------
+Pociag o numerze 16: lokomotywa o numerze 16
+podlaczone wagony: 
+
+Wagon bagazowo-pocztowy o numerze 118
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 241.52247795321495
+
+Wagon towarowy podstawowy o numerze 113
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 424.9557667063675
+
+Wagon na materialy wybuchowe o numerze 114
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 664.8722916209636
+
+Wagon towarowy ciezki o numerze 117
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 760.1736458869074
+
+Wagon restauracyjny o numerze 112
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 935.4212606178421
+
+Wagon na materialy ciekle o numerze 116
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 997.0158826935593
+
+Wagon towarowy podstawowy o numerze 115
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 1006.0809534006227
+
+Stacja poczatkowa: Stacja 88
+Stacja docelowa: Stacja 1
+Dystans do pokonania: 312202
+--------------------------------------------------
+Pociag o numerze 11: lokomotywa o numerze 11
+podlaczone wagony: 
+
+Wagon towarowy podstawowy o numerze 78
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 243.05279018389342
+
+Wagon restauracyjny o numerze 82
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 336.69022003101804
+
+Wagon bagazowo-pocztowy o numerze 80
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 348.7567824369791
+
+Wagon chlodniczy o numerze 81
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 944.6767959374599
+
+Wagon na materialy wybuchowe o numerze 79
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 1034.818591127039
+
+Stacja poczatkowa: Stacja 8
+Stacja docelowa: Stacja 54
+Dystans do pokonania: 193684
+--------------------------------------------------
+Pociag o numerze 4: lokomotywa o numerze 4
+podlaczone wagony: 
+
+Wagon pocztowy o numerze 26
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 101.74771930751982
+
+Wagon chlodniczy o numerze 24
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 328.8054106125171
+
+Wagon na materialy gazowe o numerze 32
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 390.5894199685381
+
+Wagon bagazowo-pocztowy o numerze 25
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 475.05253914108005
+
+Wagon na materialy toksyczne o numerze 30
+ladunek: amoniak
+nadawca: TOX
+zabezpieczenia: ADR
+waga: 482.0494244110295
+
+Wagon pocztowy o numerze 28
+ladunek: listy
+nadawca: Poczta
+zabezpieczenia: przeciwpozarowe
+waga: 675.8847965428948
+
+Wagon na materialy gazowe o numerze 29
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 695.8313602076205
+
+Wagon chlodniczy o numerze 31
+ladunek: mrozona zywnosc
+nadawca: COLD
+zabezpieczenia: tasmy
+waga: 868.641827165091
+
+Wagon towarowy podstawowy o numerze 27
+ladunek: zwir
+nadawca: TMI
+zabezpieczenia: sciany dzialowe
+waga: 1034.8896424595969
+
+Wagon na materialy gazowe o numerze 33
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 1078.0826964978241
+
+Stacja poczatkowa: Stacja 47
+Stacja docelowa: Stacja 49
+Dystans do pokonania: 119586
+--------------------------------------------------
+Pociag o numerze 12: lokomotywa o numerze 12
+podlaczone wagony: 
+
+Wagon na materialy wybuchowe o numerze 85
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 72.22549400447917
+
+Wagon na materialy wybuchowe o numerze 90
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 202.46829679854085
+
+Wagon restauracyjny o numerze 91
+ladunek: artykuly spozywcze
+nadawca: PGHM
+zabezpieczenia: wewnetrzne
+waga: 205.27708532624501
+
+Wagon bagazowo-pocztowy o numerze 88
+ladunek: paczki
+nadawca: BAG
+zabezpieczenia: DRT
+waga: 535.3601286032351
+
+Wagon na materialy gazowe o numerze 87
+ladunek: azot
+nadawca: GAZ
+zabezpieczenia: przeciwpozarowe
+waga: 627.79162156206
+
+Wagon na materialy wybuchowe o numerze 84
+ladunek: dynamit
+nadawca: TNT
+zabezpieczenia: przeciwpozarowe
+waga: 755.2057534254295
+
+Wagon towarowy ciezki o numerze 89
+ladunek: wegiel
+nadawca: PSH
+zabezpieczenia: tasmy
+waga: 856.7719083928949
+
+Wagon pasazerski o numerze 86
+ladunek: null
+liczba miejsc: 80
+liczba pasazerow: 21
+zabezpieczenia: przeciwpozarowe
+waga: 965.0182771499319
+
+
+Wagon na materialy ciekle o numerze 92
+ladunek: woda
+nadawca: CI
+zabezpieczenia: uszczelniony
+waga: 998.8023818169745
+
+Stacja poczatkowa: Stacja 69
+Stacja docelowa: Stacja 52
+Dystans do pokonania: 8910
+--------------------------------------------------
