@@ -1,0 +1,1331 @@
+---List of current train compositions---
+
+Train no. 19: locomotive no. 19
+connected carriages: 
+
+Toxic materials wagon no. 136
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 179.46448231923316
+
+Liquid materials wagon no. 135
+cargo: water
+shipper: CI
+security: sealed
+weight: 227.67602882573064
+
+Basic goods wagon no. 139
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 327.99311707243635
+
+Explosives wagon no. 134
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 400.32935427464594
+
+Restaurant carriage no. 137
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 432.2094876214834
+
+Wagon for toxic liquid materials no. 141
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 742.2116805423366
+
+Baggage and postal carriage no. 140
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 899.0480000754552
+
+Wagon for toxic liquid materials no. 138
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 948.7481503710787
+
+Starting station: Station 98
+Destination station: Station 83
+Distance to cover: 41294
+--------------------------------------------------
+Train no. 12: locomotive no. 12
+connected carriages: 
+
+Mail carriage no. 75
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 354.9595221270603
+
+Refrigerated wagon no. 84
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 511.16956343037987
+
+Toxic materials wagon no. 80
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 560.2089368791784
+
+Basic goods wagon no. 77
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 586.5350218680636
+
+Heavy goods wagon no. 81
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 605.0143400288537
+
+Gas materials wagon no. 83
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 677.2647958399457
+
+Refrigerated wagon no. 78
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 737.369887910166
+
+Refrigerated wagon no. 76
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 800.6373335326311
+
+Gas materials wagon no. 82
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 841.0627080939644
+
+Passenger carriage no. 79
+cargo: null
+number of seats: 90
+number of passengers: 3
+security: fire protection
+weight: 847.3638871718098
+
+
+Starting station: Station 25
+Destination station: Station 56
+Distance to cover: 38950
+--------------------------------------------------
+Train no. 5: locomotive no. 5
+connected carriages: 
+
+Explosives wagon no. 29
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 288.6712922550929
+
+Wagon for toxic liquid materials no. 28
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 380.3500336823302
+
+Liquid materials wagon no. 32
+cargo: water
+shipper: CI
+security: sealed
+weight: 581.3530179119831
+
+Wagon for toxic liquid materials no. 30
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 689.4169490183074
+
+Mail carriage no. 31
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 1022.8777325771991
+
+Starting station: Station 0
+Destination station: Station 25
+Distance to cover: 40296
+--------------------------------------------------
+Train no. 4: locomotive no. 4
+connected carriages: 
+
+Explosives wagon no. 23
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 446.6294747841209
+
+Baggage and postal carriage no. 25
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 677.7139343333315
+
+Liquid materials wagon no. 27
+cargo: water
+shipper: CI
+security: sealed
+weight: 741.4273603877781
+
+Gas materials wagon no. 24
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 861.8045020826091
+
+Baggage and postal carriage no. 26
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 863.7007821446025
+
+Starting station: Station 36
+Destination station: Station 96
+Distance to cover: 40534
+--------------------------------------------------
+Train no. 20: locomotive no. 20
+connected carriages: 
+
+Mail carriage no. 145
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 201.34504450350545
+
+Basic goods wagon no. 144
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 237.8807973098223
+
+Liquid materials wagon no. 143
+cargo: water
+shipper: CI
+security: sealed
+weight: 359.4388675580875
+
+Heavy goods wagon no. 148
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 470.999747106699
+
+Wagon for toxic liquid materials no. 149
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 578.9548806854767
+
+Baggage and postal carriage no. 142
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 710.0091709144854
+
+Refrigerated wagon no. 147
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 994.9187435407047
+
+Refrigerated wagon no. 146
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 1031.248523642118
+
+Starting station: Station 59
+Destination station: Station 17
+Distance to cover: 42784
+--------------------------------------------------
+Train no. 22: locomotive no. 22
+connected carriages: 
+
+Gas materials wagon no. 163
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 69.19223419258915
+
+Restaurant carriage no. 160
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 141.14932901842542
+
+Heavy goods wagon no. 162
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 186.23831702319077
+
+Toxic materials wagon no. 161
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 186.84077194084827
+
+Explosives wagon no. 164
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 549.0343589025359
+
+Starting station: Station 50
+Destination station: Station 42
+Distance to cover: 43617
+--------------------------------------------------
+Train no. 1: locomotive no. 1
+connected carriages: 
+
+Toxic materials wagon no. 6
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 84.28003670055757
+
+Liquid materials wagon no. 4
+cargo: water
+shipper: CI
+security: sealed
+weight: 134.36397210248404
+
+Heavy goods wagon no. 1
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 156.3502509426991
+
+Toxic materials wagon no. 2
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 370.4252136303157
+
+Heavy goods wagon no. 5
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 589.8655780996025
+
+Toxic materials wagon no. 3
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 660.4271302204381
+
+Wagon for toxic liquid materials no. 7
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 849.7421142715306
+
+Starting station: Station 74
+Destination station: Station 87
+Distance to cover: 37825
+--------------------------------------------------
+Train no. 17: locomotive no. 17
+connected carriages: 
+
+Explosives wagon no. 118
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 460.6849005786465
+
+Basic goods wagon no. 116
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 576.4319317257134
+
+Basic goods wagon no. 117
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 648.8908414045502
+
+Gas materials wagon no. 119
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 842.0241653677571
+
+Explosives wagon no. 120
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 866.3622244421987
+
+Refrigerated wagon no. 122
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 965.6875689975496
+
+Toxic materials wagon no. 123
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 988.1965404975688
+
+Passenger carriage no. 121
+cargo: null
+number of seats: 0
+number of passengers: 37
+security: fire protection
+weight: 1082.2744004305018
+
+
+Starting station: Station 79
+Destination station: Station 38
+Distance to cover: 40716
+--------------------------------------------------
+Train no. 14: locomotive no. 14
+connected carriages: 
+
+Refrigerated wagon no. 100
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 123.65364906073948
+
+Toxic materials wagon no. 96
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 306.9920276995922
+
+Restaurant carriage no. 97
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 383.0167803832865
+
+Wagon for toxic liquid materials no. 95
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 535.8585380355912
+
+Mail carriage no. 102
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 591.9636021768022
+
+Baggage and postal carriage no. 99
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 603.3828011443198
+
+Basic goods wagon no. 101
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 809.3827069688913
+
+Liquid materials wagon no. 98
+cargo: water
+shipper: CI
+security: sealed
+weight: 832.1690712473564
+
+Starting station: Station 0
+Destination station: Station 8
+Distance to cover: 38232
+--------------------------------------------------
+Train no. 6: locomotive no. 6
+connected carriages: 
+
+Basic goods wagon no. 36
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 205.55376135052177
+
+Refrigerated wagon no. 38
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 423.2147753457604
+
+Heavy goods wagon no. 41
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 471.14958004733836
+
+Wagon for toxic liquid materials no. 35
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 506.4075321772311
+
+Explosives wagon no. 37
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 515.4744910263009
+
+Gas materials wagon no. 33
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 593.0109083698803
+
+Wagon for toxic liquid materials no. 39
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 621.7320530634153
+
+Basic goods wagon no. 34
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 622.108515726171
+
+Wagon for toxic liquid materials no. 40
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 788.7565460040964
+
+Starting station: Station 44
+Destination station: Station 28
+Distance to cover: 31520
+--------------------------------------------------
+Train no. 9: locomotive no. 9
+connected carriages: 
+
+Heavy goods wagon no. 59
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 109.95606056220521
+
+Heavy goods wagon no. 57
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 278.74798726149675
+
+Refrigerated wagon no. 58
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 563.6527272862284
+
+Heavy goods wagon no. 61
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 574.599570319016
+
+Restaurant carriage no. 60
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 1006.9043812897244
+
+Starting station: Station 71
+Destination station: Station 64
+Distance to cover: 31302
+--------------------------------------------------
+Train no. 3: locomotive no. 3
+connected carriages: 
+
+Gas materials wagon no. 18
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 253.19477883092821
+
+Passenger carriage no. 20
+cargo: null
+number of seats: 15
+number of passengers: 3
+security: fire protection
+weight: 276.03485357353424
+
+
+Liquid materials wagon no. 19
+cargo: water
+shipper: CI
+security: sealed
+weight: 352.5578260933311
+
+Refrigerated wagon no. 22
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 450.1405609311972
+
+Heavy goods wagon no. 17
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 853.3982767028116
+
+Refrigerated wagon no. 21
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 932.7983166292047
+
+Starting station: Station 26
+Destination station: Station 91
+Distance to cover: 30616
+--------------------------------------------------
+Train no. 23: locomotive no. 23
+connected carriages: 
+
+Basic goods wagon no. 165
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 266.0230532070946
+
+Liquid materials wagon no. 172
+cargo: water
+shipper: CI
+security: sealed
+weight: 506.752841647197
+
+Mail carriage no. 166
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 671.1226583906873
+
+Restaurant carriage no. 170
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 698.8526888937549
+
+Explosives wagon no. 167
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 702.5028237046544
+
+Baggage and postal carriage no. 168
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 795.0515558057092
+
+Mail carriage no. 169
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 926.5929602257729
+
+Restaurant carriage no. 171
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 944.2582296363037
+
+Starting station: Station 56
+Destination station: Station 24
+Distance to cover: 28224
+--------------------------------------------------
+Train no. 7: locomotive no. 7
+connected carriages: 
+
+Basic goods wagon no. 48
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 132.9494487780306
+
+Restaurant carriage no. 47
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 363.7600511535397
+
+Wagon for toxic liquid materials no. 42
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 440.05429934356647
+
+Restaurant carriage no. 44
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 521.9238117003914
+
+Refrigerated wagon no. 46
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 613.0323389043937
+
+Mail carriage no. 45
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 732.4429076927644
+
+Heavy goods wagon no. 43
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 753.8907126268775
+
+Starting station: Station 29
+Destination station: Station 7
+Distance to cover: 26942
+--------------------------------------------------
+Train no. 24: locomotive no. 24
+connected carriages: 
+
+Passenger carriage no. 176
+cargo: null
+number of seats: 32
+number of passengers: 27
+security: fire protection
+weight: 147.05042384984102
+
+
+Baggage and postal carriage no. 174
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 192.4454685315021
+
+Baggage and postal carriage no. 173
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 202.54359414839925
+
+Mail carriage no. 179
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 341.13443939542094
+
+Refrigerated wagon no. 181
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 472.95787516394154
+
+Gas materials wagon no. 180
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 669.3809702336683
+
+Wagon for toxic liquid materials no. 175
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 695.416032261468
+
+Heavy goods wagon no. 178
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 761.6571230997014
+
+Baggage and postal carriage no. 177
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 990.0506243139223
+
+Starting station: Station 7
+Destination station: Station 31
+Distance to cover: 29670
+--------------------------------------------------
+Train no. 15: locomotive no. 15
+connected carriages: 
+
+Wagon for toxic liquid materials no. 106
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 262.78846746895243
+
+Gas materials wagon no. 105
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 617.0072859559357
+
+Passenger carriage no. 107
+cargo: null
+number of seats: 55
+number of passengers: 0
+security: fire protection
+weight: 623.4379948707676
+
+
+Toxic materials wagon no. 104
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 633.1000016020445
+
+Heavy goods wagon no. 103
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 803.1442239318542
+
+Starting station: Station 86
+Destination station: Station 27
+Distance to cover: 27491
+--------------------------------------------------
+Train no. 10: locomotive no. 10
+connected carriages: 
+
+Toxic materials wagon no. 65
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 102.56177856406777
+
+Gas materials wagon no. 62
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 214.81493677748512
+
+Basic goods wagon no. 63
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 729.4185708666699
+
+Gas materials wagon no. 64
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 748.9288648744251
+
+Wagon for toxic liquid materials no. 66
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 1057.6652698749353
+
+Starting station: Station 1
+Destination station: Station 24
+Distance to cover: 24244
+--------------------------------------------------
+Train no. 2: locomotive no. 2
+connected carriages: 
+
+Baggage and postal carriage no. 10
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 380.3862679953384
+
+Explosives wagon no. 11
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 427.17622595995
+
+Refrigerated wagon no. 16
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 488.363408583209
+
+Mail carriage no. 15
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 621.5502352214537
+
+Basic goods wagon no. 12
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 677.0258510566581
+
+Refrigerated wagon no. 8
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 705.4599895266375
+
+Passenger carriage no. 14
+cargo: null
+number of seats: 60
+number of passengers: 31
+security: fire protection
+weight: 726.782821110658
+
+
+Gas materials wagon no. 9
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 967.1766765692149
+
+Refrigerated wagon no. 13
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 1091.569704643454
+
+Starting station: Station 91
+Destination station: Station 28
+Distance to cover: 20504
+--------------------------------------------------
+Train no. 13: locomotive no. 13
+connected carriages: 
+
+Mail carriage no. 94
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 80.46114089263503
+
+Wagon for toxic liquid materials no. 89
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 166.69204074782343
+
+Baggage and postal carriage no. 91
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 167.28043086407115
+
+Refrigerated wagon no. 90
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 189.31992113686124
+
+Passenger carriage no. 87
+cargo: null
+number of seats: 76
+number of passengers: 14
+security: fire protection
+weight: 266.64139855937424
+
+
+Mail carriage no. 88
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 348.73311082912693
+
+Toxic materials wagon no. 85
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 372.32835174910264
+
+Toxic materials wagon no. 92
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 796.9304577739681
+
+Restaurant carriage no. 86
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 855.6073458110241
+
+Basic goods wagon no. 93
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 1043.9853935519295
+
+Starting station: Station 15
+Destination station: Station 69
+Distance to cover: 18144
+--------------------------------------------------
+Train no. 11: locomotive no. 11
+connected carriages: 
+
+Baggage and postal carriage no. 72
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 362.6625876812381
+
+Passenger carriage no. 69
+cargo: null
+number of seats: 85
+number of passengers: 8
+security: fire protection
+weight: 479.81420391248946
+
+
+Restaurant carriage no. 70
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 498.3853869509369
+
+Refrigerated wagon no. 68
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 527.2715241128167
+
+Liquid materials wagon no. 67
+cargo: water
+shipper: CI
+security: sealed
+weight: 649.6476463340621
+
+Gas materials wagon no. 71
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 814.2184485089319
+
+Toxic materials wagon no. 73
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 955.6468666157856
+
+Baggage and postal carriage no. 74
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 1071.918856089346
+
+Starting station: Station 14
+Destination station: Station 92
+Distance to cover: 14274
+--------------------------------------------------
+Train no. 25: locomotive no. 25
+connected carriages: 
+
+Mail carriage no. 187
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 51.42448711858685
+
+Gas materials wagon no. 183
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 64.48243569040332
+
+Heavy goods wagon no. 186
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 494.41565803832884
+
+Restaurant carriage no. 189
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 559.2168825039837
+
+Refrigerated wagon no. 182
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 685.0978965316557
+
+Passenger carriage no. 184
+cargo: null
+number of seats: 64
+number of passengers: 42
+security: fire protection
+weight: 938.5041601256514
+
+
+Heavy goods wagon no. 188
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 954.9455949857323
+
+Refrigerated wagon no. 185
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 1035.5563045944084
+
+Starting station: Station 51
+Destination station: Station 94
+Distance to cover: 13856
+--------------------------------------------------
+Train no. 16: locomotive no. 16
+connected carriages: 
+
+Explosives wagon no. 114
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 194.510976481178
+
+Restaurant carriage no. 113
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 277.2640036201755
+
+Mail carriage no. 111
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 431.6368687851706
+
+Gas materials wagon no. 108
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 458.26613271160784
+
+Restaurant carriage no. 112
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 531.3373130850912
+
+Wagon for toxic liquid materials no. 110
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 566.3623913729991
+
+Gas materials wagon no. 115
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 677.8351110605144
+
+Restaurant carriage no. 109
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 879.1525612987915
+
+Starting station: Station 60
+Destination station: Station 50
+Distance to cover: 10804
+--------------------------------------------------
+Train no. 8: locomotive no. 8
+connected carriages: 
+
+Gas materials wagon no. 55
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 106.76771102006924
+
+Explosives wagon no. 50
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 320.96517613226627
+
+Heavy goods wagon no. 52
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 328.8129447930576
+
+Gas materials wagon no. 54
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 462.53963098958167
+
+Refrigerated wagon no. 56
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 495.54022860131454
+
+Refrigerated wagon no. 49
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 507.4201038550421
+
+Gas materials wagon no. 51
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 863.5688622667876
+
+Mail carriage no. 53
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 940.6528395864711
+
+Starting station: Station 24
+Destination station: Station 10
+Distance to cover: 6600
+--------------------------------------------------
+Train no. 18: locomotive no. 18
+connected carriages: 
+
+Explosives wagon no. 130
+cargo: dynamite
+shipper: TNT
+security: fire protection
+weight: 165.41005402831024
+
+Baggage and postal carriage no. 129
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 427.68444738144296
+
+Wagon for toxic liquid materials no. 127
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 467.6983676432693
+
+Passenger carriage no. 131
+cargo: null
+number of seats: 72
+number of passengers: 36
+security: fire protection
+weight: 604.8380696013307
+
+
+Baggage and postal carriage no. 124
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 614.6237259747419
+
+Basic goods wagon no. 133
+cargo: gravel
+shipper: TMI
+security: partition walls
+weight: 735.586580725304
+
+Liquid materials wagon no. 126
+cargo: water
+shipper: CI
+security: sealed
+weight: 760.5578347733772
+
+Mail carriage no. 132
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 819.9272740479985
+
+Baggage and postal carriage no. 128
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 835.9383960346353
+
+Wagon for toxic liquid materials no. 125
+cargo: gas
+shipper: CMT
+security: fire protection
+weight: 1019.3264707142504
+
+Starting station: Station 65
+Destination station: Station 45
+Distance to cover: 4379
+--------------------------------------------------
+Train no. 21: locomotive no. 21
+connected carriages: 
+
+Refrigerated wagon no. 153
+cargo: frozen food
+shipper: COLD
+security: tapes
+weight: 151.04560951109903
+
+Gas materials wagon no. 150
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 168.12042077805404
+
+Restaurant carriage no. 152
+cargo: groceries
+shipper: PGHM
+security: internal
+weight: 261.814352193585
+
+Toxic materials wagon no. 156
+cargo: ammonia
+shipper: TOX
+security: ADR
+weight: 273.516809911503
+
+Baggage and postal carriage no. 151
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 440.10950461498715
+
+Mail carriage no. 154
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 506.8868805553163
+
+Baggage and postal carriage no. 155
+cargo: packages
+shipper: BAG
+security: DRT
+weight: 737.9944702950154
+
+Gas materials wagon no. 159
+cargo: azote
+shipper: GAZ
+security: fire protection
+weight: 804.9425120778694
+
+Heavy goods wagon no. 157
+cargo: coal
+shipper: PSH
+security: tapes
+weight: 837.3155122215569
+
+Mail carriage no. 158
+cargo: letters
+shipper: Mail
+security: fire protection
+weight: 1015.3823176068863
+
+Starting station: Station 13
+Destination station: Station 45
+Distance to cover: 1224
+--------------------------------------------------
