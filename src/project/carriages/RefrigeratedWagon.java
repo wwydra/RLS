@@ -9,6 +9,7 @@ extends BasicGoodsWagon implements Electric {
 
     private double temperature;
     private double freezingPoint = -10;
+
     public RefrigeratedWagon(String shipper, String security, double weight) {
         super(shipper, security, weight);
     }
@@ -42,15 +43,6 @@ extends BasicGoodsWagon implements Electric {
         return super.getContainers();
     }
 
-    @Override
-    public String getData() {
-        return "Refrigerated wagon no. " + this.id + "\n" +
-                "cargo: " + this.cargo + "\n" +
-                "shipper: " + this.shipper + "\n" +
-                "security: " + this.security + "\n" +
-                "weight: " + this.grossWeight;
-    }
-
     public double getTemperature() {
         return temperature;
     }
@@ -76,5 +68,14 @@ extends BasicGoodsWagon implements Electric {
     @Override
     public void connect() {
         this.connected = true;
+    }
+
+    @Override
+    public String getData() {
+        return "Refrigerated wagon no. " + this.id + "\n" +
+                "cargo: " + this.cargo + "\n" +
+                "shipper: " + this.shipper + "\n" +
+                "security: " + this.security + "\n" +
+                "weight: " + this.grossWeight;
     }
 }

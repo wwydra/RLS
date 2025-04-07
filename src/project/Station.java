@@ -5,22 +5,14 @@ import java.util.HashMap;
 public class Station
 implements Comparable<Station>{
 
-    private String name;
-    private int index;
+    private final String name;
+    private final int index;
     private static int counter = 0;
-    private HashMap<Integer, Boolean> platforms = new HashMap<>();
+    private final HashMap<Integer, Boolean> platforms = new HashMap<>();
 
     public Station(String name){
         this.name = name;
         this.index = counter++;
-    }
-
-    public int getIndex() {
-        return index;
-    }
-
-    public String getName() {
-        return name;
     }
 
     public void addPlatform(int number, boolean change){
@@ -29,6 +21,14 @@ implements Comparable<Station>{
 
     public HashMap<Integer, Boolean> getPlatforms() {
         return platforms;
+    }
+
+    public int getIndex() {
+        return index;
+    }
+
+    public String getName() {
+        return name;
     }
 
     @Override

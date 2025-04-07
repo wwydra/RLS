@@ -30,12 +30,6 @@ extends MailCarriage{
     }
 
     @Override
-    public void load(String cargo, double loadWeight) {
-        this.cargo = cargo;
-        this.grossWeight += loadWeight;
-    }
-
-    @Override
     public void addDriversCabin() {
         super.addDriversCabin();
     }

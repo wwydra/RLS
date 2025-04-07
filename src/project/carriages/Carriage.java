@@ -12,18 +12,18 @@ public abstract class Carriage
     protected boolean connected = false;
     protected String cargo;
 
-    public abstract String getData();
-
-    public double getGrossWeight() {
-        return grossWeight;
-    }
-
     public boolean isConnected() {
         return connected;
     }
 
     public String getCargo() {
         return cargo;
+    }
+
+    public abstract String getData();
+
+    public double getGrossWeight() {
+        return grossWeight;
     }
 
     @Override

@@ -9,6 +9,7 @@ extends Carriage {
     private String currContainerType;
     private ArrayList<Integer> containers;
     private static int count = 1;
+
     public BasicGoodsWagon(String shipper, String security, double weight){
         this.id = counter++;
         this.shipper = shipper;
@@ -24,6 +25,17 @@ extends Carriage {
         this.readiness = false;
     }
 
+    public void prepare(){
+        this.cargo = null;
+        this.grossWeight = netWeight;
+        this.readiness = true;
+    }
+
+    public void addContainerType(String s){
+        this.currContainerType = s;
+        containers.add(count++);
+    }
+
     public boolean isReady() {
         return readiness;
     }
@@ -36,17 +48,6 @@ extends Carriage {
         return containers;
     }
 
-    public void prepare(){
-        this.cargo = null;
-        this.grossWeight = netWeight;
-        this.readiness = true;
-    }
-
-    public void addContainerType(String s){
-        this.currContainerType = s;
-        containers.add(count++);
-    }
-
     @Override
     public String getData() {
         return "Basic goods wagon no. " + this.id + "\n" +
@@ -54,10 +55,5 @@ extends Carriage {
                 "shipper: " + this.shipper + "\n" +
                 "security: " + this.security + "\n" +
                 "weight: " + this.grossWeight;
-    }
-
-    @Override
-    public int compareTo(Carriage c) {
-        return Double.compare(this.grossWeight, c.getGrossWeight());
     }
 }

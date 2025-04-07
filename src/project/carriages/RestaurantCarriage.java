@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class RestaurantCarriage
 extends Carriage implements Electric {
 
-    private ArrayList<String> mealList = new ArrayList<>();
+    private final ArrayList<String> mealList = new ArrayList<>();
     private boolean cooling;
 
     public RestaurantCarriage(String shipper, String security, double weight){
@@ -56,10 +56,5 @@ extends Carriage implements Electric {
                 "shipper: " + this.shipper + "\n" +
                 "security: " + this.security + "\n" +
                 "weight: " + this.grossWeight;
-    }
-
-    @Override
-    public int compareTo(Carriage c) {
-        return Double.compare(this.grossWeight, c.getGrossWeight());
     }
 }

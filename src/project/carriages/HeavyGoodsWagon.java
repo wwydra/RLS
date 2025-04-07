@@ -5,6 +5,7 @@ extends Carriage {
 
     private double transportPrice;
     protected boolean toxic;
+
     public HeavyGoodsWagon(String shipper, String security, double weight){
         this.id = counter++;
         this.shipper = shipper;
@@ -18,10 +19,6 @@ extends Carriage {
         this.grossWeight += loadWeight;
     }
 
-    public double getTransportPrice() {
-        return transportPrice;
-    }
-
     public boolean toxicity(){
         toxic = false;
         return toxic;
@@ -31,6 +28,10 @@ extends Carriage {
         this.transportPrice = grossWeight/100;
     }
 
+    public double getTransportPrice() {
+        return transportPrice;
+    }
+
     @Override
     public String getData() {
         return "Heavy goods wagon no. " + this.id + "\n" +
@@ -38,10 +39,5 @@ extends Carriage {
                 "shipper: " + this.shipper + "\n" +
                 "security: " + this.security + "\n" +
                 "weight: " + this.grossWeight;
-    }
-
-    @Override
-    public int compareTo(Carriage c) {
-        return Double.compare(this.grossWeight, c.getGrossWeight());
     }
 }

@@ -245,8 +245,8 @@ public class Main {
                     System.out.println("Train route:");
                     ArrayList<Station> currRoute = trains.get(trainNumber - 1).getRoute();
                     if (currRoute != null && !currRoute.isEmpty()) {
-                        for (int i = 0; i < currRoute.size(); i++) {
-                            System.out.println(currRoute.get(i));
+                        for (Station station : currRoute) {
+                            System.out.println(station);
                         }
                         System.out.println("Percentage of route completed: " + trainThreads.get(trainNumber - 1).getRoutePercent() + "%");
                         System.out.println("Current station: " +

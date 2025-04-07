@@ -8,10 +8,9 @@ import java.util.ArrayList;
 public class PassengerCarriage
 extends Carriage implements Electric {
 
-    private int numberOfSeats;
+    private final int numberOfSeats;
     private int numberOfPassengers;
-
-    private ArrayList<Integer> compartmentNumbers = new ArrayList<>();
+    private final ArrayList<Integer> compartmentNumbers = new ArrayList<>();
 
     public PassengerCarriage(int numberOfSeats, String security, double weight){
         this.numberOfSeats = numberOfSeats;
@@ -51,6 +50,11 @@ extends Carriage implements Electric {
     }
 
     @Override
+    public void connect() {
+        this.connected = true;
+    }
+
+    @Override
     public String getData() {
         return "Passenger carriage no. " + this.id + "\n" +
                 "cargo: " + this.cargo + "\n" +
@@ -58,15 +62,5 @@ extends Carriage implements Electric {
                 "number of passengers: " + this.numberOfPassengers + "\n" +
                 "security: " + this.security + "\n" +
                 "weight: " + this.grossWeight + "\n";
-    }
-
-    @Override
-    public void connect() {
-        this.connected = true;
-    }
-
-    @Override
-    public int compareTo(Carriage c) {
-        return Double.compare(this.grossWeight, c.getGrossWeight());
     }
 }

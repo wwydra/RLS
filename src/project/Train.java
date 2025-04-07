@@ -19,7 +19,7 @@ implements Comparable<Train>{
     private static int counter = 1;
     protected ArrayList<Station> route;
     private int distance;
-    private TreeMap<Station, HashMap<Station, Integer>> stationMap;
+    private final TreeMap<Station, HashMap<Station, Integer>> stationMap;
 
     public Train(Locomotive locomotive, TreeMap<Station, HashMap<Station, Integer>> stationMap) {
         this.locomotive = locomotive;

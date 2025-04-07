@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class TrafficControl {
 
-    private ArrayList<TrainThread> trainThreads;
+    private final ArrayList<TrainThread> trainThreads;
 
     public TrafficControl(ArrayList<TrainThread> trainThreads) {
         this.trainThreads = trainThreads;
@@ -31,12 +31,12 @@ public class TrafficControl {
 }
 class TrainThread
         extends Thread {
-    private Train train;
+    private final Train train;
     private ArrayList<Station> route;
-    private TreeMap<Station, HashMap<Station, Integer>> stationMap;
+    private final TreeMap<Station, HashMap<Station, Integer>> stationMap;
     private Station currentStation;
     private Station nextStation;
-    private ReentrantLock lock;
+    private final ReentrantLock lock;
     private int routePercent;
     private int currRoutePercent;
 
@@ -46,14 +46,6 @@ class TrainThread
         this.stationMap = stationMap;
         this.lock = new ReentrantLock();
         this.routePercent = 0;
-    }
-
-    public Station getNextStation() {
-        return nextStation;
-    }
-
-    public Station getCurrentStation() {
-        return currentStation;
     }
 
     public synchronized int percentOfRouteCompleted(Station currentStation, Train train, int distance){
@@ -77,6 +69,14 @@ class TrainThread
 
     public synchronized int getCurrRoutePercent() {
         return currRoutePercent;
+    }
+
+    public Station getNextStation() {
+        return nextStation;
+    }
+
+    public Station getCurrentStation() {
+        return currentStation;
     }
 
     @Override
@@ -164,7 +164,7 @@ class TrainThread
 class StationsThread
     extends Thread{
 
-    private static HashMap<HashMap<Station, Station>, Boolean> stations = new HashMap<>();
+    private static final HashMap<HashMap<Station, Station>, Boolean> stations = new HashMap<>();
 
     public static synchronized boolean checkState(Station currStation, Station nextStation){
         HashMap<Station, Station> route = new HashMap<>();
@@ -190,17 +190,15 @@ class StationsThread
     }
 
     @Override
-    public void run() {
-
-    }
+    public void run() {}
 }
 
 class QueueThread
     extends Thread {
 
-    private static Queue<TrainThread> queue = new LinkedList<>();
-    private static ReentrantLock lock = new ReentrantLock();
-    private static Condition notEmpty = lock.newCondition();
+    private static final Queue<TrainThread> queue = new LinkedList<>();
+    private static final ReentrantLock lock = new ReentrantLock();
+    private static final Condition notEmpty = lock.newCondition();
 
     public static void addToQueue(TrainThread trainThread){
         lock.lock();

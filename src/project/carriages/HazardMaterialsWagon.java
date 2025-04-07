@@ -5,6 +5,7 @@ extends HeavyGoodsWagon{
 
     private String password;
     private boolean isolation;
+
     public HazardMaterialsWagon(String shipper, String security, double weight) {
         super(shipper, security, weight);
         this.isolation = false;
@@ -14,10 +15,6 @@ extends HeavyGoodsWagon{
     public void load(String cargo, double loadWeight) {
         this.cargo = cargo;
         this.grossWeight += loadWeight;
-    }
-
-    public void setPassword(String password){
-        this.password = password;
     }
 
     public void changeLoad(String password, String cargo){
@@ -40,6 +37,10 @@ extends HeavyGoodsWagon{
     @Override
     public void calculateTransportPrice() {
         super.calculateTransportPrice();
+    }
+
+    public void setPassword(String password){
+        this.password = password;
     }
 
     @Override

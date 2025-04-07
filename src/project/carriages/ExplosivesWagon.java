@@ -6,7 +6,8 @@ public class ExplosivesWagon
 extends HeavyGoodsWagon{
 
     private double humidity;
-    private ArrayList<String> separations = new ArrayList<>();
+    private final ArrayList<String> separations = new ArrayList<>();
+
     public ExplosivesWagon(String shipper, String security, double weight) {
         super(shipper, security, weight);
     }
@@ -15,10 +16,6 @@ extends HeavyGoodsWagon{
     public void load(String cargo, double loadWeight) {
         this.cargo = cargo;
         this.grossWeight += loadWeight;
-    }
-
-    public void setHumidity(double humidity) {
-        this.humidity = humidity;
     }
 
     public boolean checkSecurity(){
@@ -34,11 +31,6 @@ extends HeavyGoodsWagon{
     }
 
     @Override
-    public double getTransportPrice() {
-        return super.getTransportPrice();
-    }
-
-    @Override
     public boolean toxicity() {
         return super.toxicity();
     }
@@ -46,6 +38,15 @@ extends HeavyGoodsWagon{
     @Override
     public void calculateTransportPrice() {
         super.calculateTransportPrice();
+    }
+
+    @Override
+    public double getTransportPrice() {
+        return super.getTransportPrice();
+    }
+
+    public void setHumidity(double humidity) {
+        this.humidity = humidity;
     }
 
     @Override

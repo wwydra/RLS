@@ -7,25 +7,11 @@ extends LiquidsTankWagon {
 
     private double transportPrice;
     protected boolean toxic;
-
     private double properTemperature;
     private double temperature;
+
     public ToxicLiquidsTankWagon(String shipper, String security, double weight) {
         super(shipper, security, weight);
-    }
-
-    @Override
-    public void load(String cargo, double loadWeight) {
-        this.cargo = cargo;
-        this.grossWeight += loadWeight;
-    }
-
-    public void setTemperature(double temperature) {
-        this.temperature = temperature;
-    }
-
-    public void setProperTemperature(double properTemperature) {
-        this.properTemperature = properTemperature;
     }
 
     @Override
@@ -36,21 +22,6 @@ extends LiquidsTankWagon {
     @Override
     public void removeTank(String name) {
         super.removeTank(name);
-    }
-
-    @Override
-    public boolean isReady() {
-        return super.isReady();
-    }
-
-    @Override
-    public String getCurrContainerType() {
-        return super.getCurrContainerType();
-    }
-
-    @Override
-    public ArrayList<Integer> getContainers() {
-        return super.getContainers();
     }
 
     public boolean isTemperatureAppropriate(){
@@ -65,10 +36,6 @@ extends LiquidsTankWagon {
         super.prepare();
     }
 
-    public double getTransportPrice() {
-        return transportPrice;
-    }
-
     public boolean toxicity(){
         toxic = true;
         return toxic;
@@ -79,8 +46,35 @@ extends LiquidsTankWagon {
     }
 
     @Override
+    public boolean isReady() {
+        return super.isReady();
+    }
+
+    public double getTransportPrice() {
+        return transportPrice;
+    }
+
+    @Override
+    public String getCurrContainerType() {
+        return super.getCurrContainerType();
+    }
+
+    @Override
+    public ArrayList<Integer> getContainers() {
+        return super.getContainers();
+    }
+
+    @Override
     public void addContainerType(String s) {
         super.addContainerType(s);
+    }
+
+    public void setTemperature(double temperature) {
+        this.temperature = temperature;
+    }
+
+    public void setProperTemperature(double properTemperature) {
+        this.properTemperature = properTemperature;
     }
 
     @Override

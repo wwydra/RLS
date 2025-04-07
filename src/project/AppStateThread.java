@@ -8,8 +8,8 @@ import java.util.Collections;
 public class AppStateThread
         extends Thread{
 
-    private ArrayList<Train> sortedTrains;
-    private String filePath;
+    private final ArrayList<Train> sortedTrains;
+    private final String filePath;
     private final Object object = new Object();
 
     public AppStateThread(ArrayList<Train> trains, String filePath){
@@ -34,9 +34,7 @@ public class AppStateThread
     }
 
     public void save(){
-        try {
-            FileWriter fileWriter = new FileWriter(filePath);
-
+        try (FileWriter fileWriter = new FileWriter(filePath)) {
             fileWriter.write("---List of current train compositions---\n\n");
             for (Train train : sortedTrains){
                 fileWriter.write(train.print());

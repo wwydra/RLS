@@ -6,6 +6,7 @@ extends BasicGoodsWagon{
     private double permissiblePressure;
     private double pressure;
     private String mark;
+
     public GasesTankWagon(String shipper, String security, double weight) {
         super(shipper, security, weight);
         this.pressure = Math.random()*1000;
@@ -21,14 +22,6 @@ extends BasicGoodsWagon{
         this.mark = mark;
     }
 
-    public double getPermissiblePressure() {
-        return permissiblePressure;
-    }
-
-    public void setPermissiblePressure(double permissiblePressure) {
-        this.permissiblePressure = permissiblePressure;
-    }
-
     public boolean checkPressure(){
         return pressure <= permissiblePressure;
     }
@@ -41,6 +34,14 @@ extends BasicGoodsWagon{
     @Override
     public void addContainerType(String s) {
         super.addContainerType(s);
+    }
+
+    public double getPermissiblePressure() {
+        return permissiblePressure;
+    }
+
+    public void setPermissiblePressure(double permissiblePressure) {
+        this.permissiblePressure = permissiblePressure;
     }
 
     @Override

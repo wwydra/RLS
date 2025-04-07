@@ -17,22 +17,6 @@ public class Locomotive {
     private Train train;
     private boolean technicalCondition;
 
-    public int getId() {
-        return id;
-    }
-
-    public void setTrain(Train train) {
-        this.train = train;
-    }
-
-    public double getSpeed() {
-        return speed;
-    }
-
-    public void setSpeed(double speed) {
-        this.speed = speed;
-    }
-
     public Locomotive(String name, int maxNumberOfWagons, double maxTowing, int maxPDSE, double speed){
         this.name = name;
         this.maxNumberOfWagons = maxNumberOfWagons;
@@ -50,21 +34,39 @@ public class Locomotive {
             System.out.println("Requires repair.");
     }
 
-    public void setHomeStation(Station station){
-        this.homeStation = station;
-    }
-    public void setSourceStation(Station station){
-        this.sourceStation = station;
-    }
-    public void setDestination(Station station){
-        this.destinationStation = station;
-    }
-
     public double changeSpeed(double speed) throws RailroadHazard{
         double changed = Math.random() > 0.5 ?
                 speed - speed*0.03 : speed + speed*0.03;
         if (changed > 200)
             throw new RailroadHazard(this.train);
         return changed;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public double getSpeed() {
+        return speed;
+    }
+
+    public void setSpeed(double speed) {
+        this.speed = speed;
+    }
+
+    public void setTrain(Train train) {
+        this.train = train;
+    }
+
+    public void setHomeStation(Station station){
+        this.homeStation = station;
+    }
+
+    public void setSourceStation(Station station){
+        this.sourceStation = station;
+    }
+
+    public void setDestination(Station station){
+        this.destinationStation = station;
     }
 }

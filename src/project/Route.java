@@ -4,23 +4,11 @@ import java.util.*;
 
 public class Route {
 
-    private Station starting;
-    private Station destination;
-    private Stack<Station> checked;
-    private ArrayList<Station> list;
+    private final Station starting;
+    private final Station destination;
+    private final Stack<Station> checked;
+    private final ArrayList<Station> list;
     private int distance;
-
-    public int getDistance() {
-        return distance;
-    }
-
-    public Station getStarting() {
-        return starting;
-    }
-
-    public Station getDestination() {
-        return destination;
-    }
 
     public Route(Station starting, Station destination){
         this.starting = starting;
@@ -65,5 +53,17 @@ public class Route {
             distance -= deleteLength;
             list.remove(list.size() - 1);
         }
+    }
+
+    public int getDistance() {
+        return distance;
+    }
+
+    public Station getStarting() {
+        return starting;
+    }
+
+    public Station getDestination() {
+        return destination;
     }
 }
